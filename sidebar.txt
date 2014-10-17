@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kyp:home|Door43 (kyp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kyp|d43-kyp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kyp/archive/master.zip|d43-kyp.zip]]
+
+**Recent Changes**
+{{changes>ns = kyp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kyp|Ethnologue data]]
+
